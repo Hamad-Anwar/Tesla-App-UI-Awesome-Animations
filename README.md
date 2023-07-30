@@ -3,4 +3,4 @@
 
 ## Demo
 
-<img src="./UI.png">
+<img src="./demo.png">
